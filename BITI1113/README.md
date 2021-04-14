@@ -26,7 +26,7 @@ Nowsaday, social media is become very famous among the teenager because mostly t
 As for now, we are going to use AI technology to build a chartbot that can use memes to comunicate with the user and we call this chatbot **Memes Chatbot**
 
 
-![Coding](https://miro.medium.com/max/1400/1*fyfSOSKswsmV0n7Wdy6R4Q.jpeg)
+![Coding](https://miro.medium.com/max/5600/1*RD1s9xBIvd_ycJUnX12Tyw@2x.png)
 Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
 
 
