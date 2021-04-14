@@ -1,8 +1,8 @@
-# FACE MASK DETECTION USING DEEP LEARNING 
+# CHATBOT
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** Face Mask Detection using Deep Learning
+**Project Title:** Memes Chatbot
 
 **Team Members:** 
 - KHAW MING JIE
@@ -13,18 +13,17 @@
 
 - [ ] **Objectives:**
 - Break out the project goal into more specific objectives
-- [insert]
-- [insert]
-- [insert]
+- To release stress of student
+- To finish my assignment
+- 
+
 
 
 ##  B. ABSTRACT 
 
-In late December 2019, a previous unidentified coronavirus, currently named as the 2019 novel coronavirus, emerged from Wuhan, China, and resulted in a formidable outbreak in many cities in China and expanded globally, including Thailand, Republic of Korea, Japan, United States, Philippines, Viet Nam, and our country (as of 2/6/2020 at least 25 countries). Covid-19 are Person-to-person transmission may occur through droplet or contact transmission and if there is a lack of stringent infection control or if no proper personal protective equipment available, it may jeopardize the first-line healthcare workers.
+Nowsaday, social media is become very famous among the teenager because mostly teenager has a smart phone. They spend many time on social media to chat with friend, upload selfie, building their main page, sharing information and so on. For who had using social media before, we can believe that they must seen memes before. Memes is make from a picture and plenty of sentences on the picture and memes always build for entertainment to make the reader laugh. Memes can make from news, famous topic, trivial matter, workspace and so on. Almost everything can become a memes.
 
-The best safety measure that can be taken is enforcing the people to wear a face mask whenever they are outside to slow down the COVID-19 infection rate. Mask wearing significantly reduced the amounts of various airborne viruses coming from infected patients, measured using the breath-capturing "Gesundheit II machine" developed by Dr. Don Milton, a professor of applied environmental health and a senior author of the study published April 3 in the journal Nature Medicine. In short, masks can help prevent the spread of COVID-19 and that the more people wearing masks, the better.
-
-As for now, you as a Data Scientist or Machine Learning Engineer or Practitioner are going to use AI technology to recognize people whether they are wearing face mask or not in the public or open space.
+As for now, we are going to use AI technology to build a chartbot that can use memes to comunicate with the user and we call this chatbot **Memes Chatbot**
 
 
 ![Coding](https://miro.medium.com/max/1400/1*fyfSOSKswsmV0n7Wdy6R4Q.jpeg)
